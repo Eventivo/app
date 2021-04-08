@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542971429114",
+    "project_id": "eventivo-92a4f",
+    "storage_bucket": "eventivo-92a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542971429114:android:37a6a3d77796997cd60943",
+        "android_client_info": {
+          "package_name": "com.raredevz.eventivo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542971429114-k63lo1b48l3sscf0o591mbdm6d5postu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpWbMoGx2pzULdbh37r490DMHVWo2nA40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542971429114-k63lo1b48l3sscf0o591mbdm6d5postu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
